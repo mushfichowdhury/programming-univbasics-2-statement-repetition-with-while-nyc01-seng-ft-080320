@@ -2,9 +2,7 @@
 
 count = 10
 while count >= 1 
-  do puts count
+  do puts count 
     count -= 1
-else 
-  puts "Happy New Year!"
-  
 end
+ puts "Happy New Year!"
